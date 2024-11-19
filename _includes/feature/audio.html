@@ -19,6 +19,7 @@
 
 {%- endcomment -%}
 {% if include.objectid contains "/" %}
+{% include feature/audio.html objectid="Podcast" %}
 {%- capture src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
 {%- capture audio_link -%}{{ src }}{%- endcapture -%}
 {%- capture audio_caption -%}{{ include.caption }}{%- endcapture -%}
