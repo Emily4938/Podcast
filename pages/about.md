@@ -14,11 +14,7 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
-
-## Transcript
-
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
+Emily Murphy, leader of the Famous Five, spearheaded the Person's Case, allowing women to be officially deemed "persons" under the British North America Act. She is remembered in popular history for the steps forward she took for women in Canada, but should her views on eugenics of which she proudly wrote of publically be hidded from her legacy today?
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
