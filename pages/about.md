@@ -20,7 +20,6 @@ Emily Murphy, leader of the Famous Five, spearheaded the Person's Case, allowing
 The following links and resources were referred to in in the podcast audio:
 
 1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
-2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
 
 ## Acknowledgments
 
@@ -36,3 +35,9 @@ Smith, Alisa Dawn. “Rethinking First-Wave Feminism through the Ideas of Emily 
 Novoselac, Christina. "Murphy, MacMurchy, and McClung: The Intersection of Eugenics and First-Wave Feminism." Order No. 30168783, Queen's University (Canada), 2022.
 
 Smith, Barbara. The Famous Five : Canada’s Crusaders for Women’s Rights. Victoria: Heritage, 2019.
+
+Arseneau, Jesika. "Canadian Eugenics: Social Control of Private Space in Alberta and Ontario." The Mirror-Undergraduate History Journal 33, no. 1 2013.
+
+Gibbons, Sheila. “‘Our Power to Remodel Civilization’: The Development of Eugenic Feminism in Alberta, 1909-1921.” Canadian Bulletin of Medical History 31, no. 1 2014.
+
+Kammen, Michael G. In the Past Lane : Historical Perspectives on American Culture. New York: Oxford University Press, 1997.
