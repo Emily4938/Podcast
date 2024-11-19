@@ -138,7 +138,7 @@ Example Code --> `{% raw %}{% include feature/audio.html objectid="demo_003" wid
 
 #### Audio from the Collection (with a caption)
 
-{% include feature/audio.html objectid="demo_003" width="50" caption="a mp3 from the collection" %}
+{% include feature/audio.html objectid="Podcast" width="50" caption="a mp3 from the collection" %}
 
 Example Code --> `{% raw %}{% include feature/audio.html objectid="demo_003" width="50" caption="a mp3 from the collection" %}{% endraw %}`
 
