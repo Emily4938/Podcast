@@ -30,14 +30,16 @@ The creators would like to acknowledge assistance and support from:
 
 ## References
 
-Smith, Alisa Dawn. “Rethinking First-Wave Feminism through the Ideas of Emily Murphy.” National Library of Canada = Bibliothèque nationale du Canada, 1997.
-
-Novoselac, Christina. "Murphy, MacMurchy, and McClung: The Intersection of Eugenics and First-Wave Feminism." Order No. 30168783, Queen's University (Canada), 2022.
-
-Smith, Barbara. The Famous Five : Canada’s Crusaders for Women’s Rights. Victoria: Heritage, 2019.
-
 Arseneau, Jesika. "Canadian Eugenics: Social Control of Private Space in Alberta and Ontario." The Mirror-Undergraduate History Journal 33, no. 1 2013.
 
 Gibbons, Sheila. “‘Our Power to Remodel Civilization’: The Development of Eugenic Feminism in Alberta, 1909-1921.” Canadian Bulletin of Medical History 31, no. 1 2014.
 
 Kammen, Michael G. In the Past Lane : Historical Perspectives on American Culture. New York: Oxford University Press, 1997.
+
+Moss, Erin L, Henderikus J Stam, Diane Kattevilder, and Martin Drapeau. “From Suffrage to Sterilization: Eugenics and the Women’s Movement in 20th Century Alberta.” Canadian Psychology = Psychologie Canadienne 54, no. 2 (2013): 105–14.
+
+Novoselac, Christina. "Murphy, MacMurchy, and McClung: The Intersection of Eugenics and First-Wave Feminism." Order No. 30168783, Queen's University (Canada), 2022.
+
+Smith, Alisa Dawn. “Rethinking First-Wave Feminism through the Ideas of Emily Murphy.” National Library of Canada = Bibliothèque nationale du Canada, 1997.
+
+Smith, Barbara. The Famous Five : Canada’s Crusaders for Women’s Rights. Victoria: Heritage, 2019.
